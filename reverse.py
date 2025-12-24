@@ -5,12 +5,13 @@
 “civic”, return “civic”
 """
 
-def reverse_string(string):
-    return string[::-1]
+def reverse_string(s):
+    return s[::-1]
 
-string = input("Enter a string: ")
-print(reverse_string(string))
-
+# Test it with the examples
+print(reverse_string("Cat"))           # Should print "taC"
+print(reverse_string("The Daily Byte")) # Should print "etyB yliaD ehT"
+print(reverse_string("civic"))         # Should print "civic"
 
 
 
