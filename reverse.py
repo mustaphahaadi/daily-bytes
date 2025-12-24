@@ -5,13 +5,32 @@
 “civic”, return “civic”
 """
 
-
-
-def reverse_string(s):
-    return s[::-1]
-# or
-#    return ''.join(reversed(s))
-
+def reverse_string(string):
+    return string[::-1]
 
 string = input("Enter a string: ")
 print(reverse_string(string))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
