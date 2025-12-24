@@ -1,6 +1,6 @@
 # DAILY BYTE - Python Edition 🐍
 
-Perfect! I'll tackle these Python problems daily. 
+Perfect! I tackle these Python problems daily. 
 
 
 ## Here's my Python-focused workflow to solving the questions:
@@ -15,7 +15,7 @@ Perfect! I'll tackle these Python problems daily.
 THIS IS A LEARNNG PROCESS FOR ME TO BUILD:
 1. Problem Solving Skills
 2. Displicine
-3.Consistency
+3. Consistency
 4. Love for Writing Scripts
 
 I'm excited to learn with you. Just fork the repo and contribute
